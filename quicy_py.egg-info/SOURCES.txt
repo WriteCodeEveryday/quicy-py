@@ -1,0 +1,17 @@
+.gitignore
+LICENSE
+README.md
+setup.py
+quicy-py/client.py
+quicy-py/constants.py
+quicy-py/main.py
+quicy-py/packet.py
+quicy-py/server.py
+quicy-py/test_packet.py
+quicy-py/test_util.py
+quicy-py/util.py
+quicy_py.egg-info/PKG-INFO
+quicy_py.egg-info/SOURCES.txt
+quicy_py.egg-info/dependency_links.txt
+quicy_py.egg-info/requires.txt
+quicy_py.egg-info/top_level.txt

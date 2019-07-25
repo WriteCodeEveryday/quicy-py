@@ -1,4 +1,6 @@
 *.pyc
+build/
+.eggs/
 
 venv/
 __pycache__
